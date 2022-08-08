@@ -1,0 +1,6 @@
+[submodule "homeworkFile"]
+	path = homeworkFile
+	url = https://github.com/Victor2k21/homeworkFile.git
+[submodule "homeworkStreams"]
+	path = homeworkStreams
+	url = https://github.com/Victor2k21/homeworkStreams.git
